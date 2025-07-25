@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "File-System": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-filesystem",
+          "/Users/arun/Documents/Projects/ReactNativeLLM/"
+        ]
+      }
+    }
+  }
