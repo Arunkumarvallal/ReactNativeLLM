@@ -4,7 +4,7 @@ A React Native application that enables on-device Large Language Model (LLM) cha
 
 ## 🎥 Demo
 
-https://github.com/Arunkumarvallal/ReactNativeLLM/assets/youruserid/demo.MP4
+https://github.com/Arunkumarvallal/ReactNativeLLM/blob/main/demo.MP4
 
 *Watch the demo video to see ReactNativeLLM in action - model selection, chat interface, and context management features.*
 
