@@ -2,6 +2,12 @@
 
 A React Native application that enables on-device Large Language Model (LLM) chat functionality with intelligent context management. Built with TypeScript and modern React Native practices.
 
+## 🎥 Demo
+
+https://github.com/Arunkumarvallal/ReactNativeLLM/assets/youruserid/demo.MP4
+
+*Watch the demo video to see ReactNativeLLM in action - model selection, chat interface, and context management features.*
+
 ## 🚀 Features
 
 ### Core Functionality
